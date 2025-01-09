@@ -1,0 +1,20 @@
+#================
+# BIG O NOTATION
+#================
+
+Time Complexity - amount of time to execute algorithm
+
+Space Complexity - amount of memory/space utilized by algorithm/program
+
+Used to describe algos by
+a) how fast a program runs
+b) how much space used as input size grows
+
+# ranking WORST --> BEST notations
+
+SLowest             Exponential -
+                     Quadratic -
+                     Linear -
+                     Logarithmic -
+Fastest              Constant
+
